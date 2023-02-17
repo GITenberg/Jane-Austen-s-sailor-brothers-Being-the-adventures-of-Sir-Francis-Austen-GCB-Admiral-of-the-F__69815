@@ -1,0 +1,48 @@
+_repo: Jane-Austen-s-sailor-brothers-Being-the-adventures-of-Sir-Francis-Austen-GCB-Admiral-of-the-F__69815
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hubback, Edith C. (Edith Charlotte)
+    aliases:
+    - Brown, Mrs. Francis
+    - Brown, Edith Charlotte Hubback
+    birthdate: 1876
+    deathdate: 1945
+    gutenberg_agent_id: '55439'
+    url: http://www.gutenberg.org/2009/agents/55439
+    wikipedia: https://en.wikipedia.org/wiki/Edith_Charlotte_Brown
+  - agent_name: Hubback, J. H. (John Henry)
+    alias: Hubback, John Henry
+    birthdate: 1844
+    gutenberg_agent_id: '55438'
+    url: http://www.gutenberg.org/2009/agents/55438
+description: ''
+gutenberg_issued: '2023-01-18'
+identifiers:
+  gutenberg: '69815'
+language: en
+pgterms:marc904: https://archive.org/details/janeaustenssailo00hubbuoft
+pgterms:marc905: 20190911193518hubback
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: MWS, Krista Zaleski and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: 'United Kingdom: John Lane,1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Admirals -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- History, Naval -- 19th century'
+- !lcsh 'Novelists, English -- 19th century -- Family relationships'
+- !lcsh 'Austen, Jane, 1775-1817 -- Family'
+- !lcsh 'Austen, Francis, Sir, 1774-1865'
+- !lcsh 'Austen, Charles, 1779-1852'
+- !lcsh 'Austin family'
+- !lcsh 'Siblings -- England -- Biography'
+- !lcc 'PR'
+- GITenberg
+title: "Jane Austen's sailor brothers\r\nBeing the adventures of Sir Francis Austen,\
+  \ G.C.B., Admiral of the Fleet and Rear-Admiral Charles Austen"
+url: http://www.gutenberg.org/ebooks/69815
