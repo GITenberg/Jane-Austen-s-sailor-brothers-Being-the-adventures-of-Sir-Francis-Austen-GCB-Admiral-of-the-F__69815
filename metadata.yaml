@@ -1,5 +1,8 @@
 _repo: Jane-Austen-s-sailor-brothers-Being-the-adventures-of-Sir-Francis-Austen-GCB-Admiral-of-the-F__69815
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69815-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hubback, Edith C. (Edith Charlotte)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '55438'
     url: http://www.gutenberg.org/2009/agents/55438
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69815#Jane-Austen-s-sailor-brothers-Being-the-adventures-of-Sir-Francis-Austen-GCB-Admiral-of-the-F_
 gutenberg_issued: '2023-01-18'
 identifiers:
   gutenberg: '69815'
